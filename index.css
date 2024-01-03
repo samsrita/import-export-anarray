@@ -1,0 +1,26 @@
+/* Write your code here. */
+.container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hd {
+  color: black;
+  font-size: 30px;
+}
+.buttons-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.like-btn {
+  background-color: blue;
+}
+.com-btn {
+  background-color: blue;
+}
+.share-btn {
+  background-color: blue;
+}
